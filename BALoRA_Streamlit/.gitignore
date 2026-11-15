@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+.env
+.streamlit/secrets.toml
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.nii
+*.nii.gz
+*.dcm
